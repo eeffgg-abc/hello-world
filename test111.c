@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//2025年8月14日 22点03分 再改一次代码，就当完善功能了
 int main() {
     double fahrenheit, celsius;
     
@@ -11,3 +11,4 @@ int main() {
     
     return 0;
 }
+
